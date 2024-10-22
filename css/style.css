@@ -3,7 +3,24 @@ body{
 }
 
 h1{
-    color: red;
+    color: blue;
     font-size: 44px;
     text-align: center;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+div{
+    width: 80%;
+    margin: 0 auto;
+}
+
+p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
 }
